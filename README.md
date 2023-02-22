@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="[https://drive.google.com/file/d/17rULB9duui9KhV8f1QszCduVb2lxpQgE/view?usp=share_link](https://res.cloudinary.com/dc9bjecdl/image/upload/v1674126267/icons8-multiply-96-removebg-preview_1_zsisd3.png)"></img>
+<img src="https://res.cloudinary.com/dc9bjecdl/image/upload/v1674126267/icons8-multiply-96-removebg-preview_1_zsisd3.png"></img>
 <h2>Hi 👋, I'm Md. Shehab Chowdhury</h2>
 <h3>A passionate Full Stack Developer.</h4>
 
