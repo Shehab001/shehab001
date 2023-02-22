@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![App Screenshot](https://drive.google.com/file/d/17rULB9duui9KhV8f1QszCduVb2lxpQgE/view?usp=share_link)
+https://drive.google.com/file/d/17rULB9duui9KhV8f1QszCduVb2lxpQgE/view?usp=share_link
 <h2>Hi 👋, I'm Md. Shehab Chowdhury</h2>
-<h3>A passionate Full Stack Developer./h4>
+<h3>A passionate Full Stack Developer.</h4>
 
 - 🌱 I’m currently learning **React, Next.js, Typescript, Node.js & Redux**
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I love to travel**
 
-- 📫 How to reach me: mdshehab00
+- 📫 How to reach me: WhatsApp-01790199194
 
 <p align="left">
 </p>
